@@ -6,6 +6,11 @@ An end-to-end Power BI project analysing a telecom company's customer base of **
 ## Dashboard
 
 ![Telecom Customer Analytics Dashboard](./screenshots/dashboard-overview.png)
+![Telecom Customer Analytics Dashboard](./screenshots/Uncleaned-Excel.png)
+![Telecom Customer Analytics Dashboard](./screenshots/cleaned-Excel1.png)
+![Telecom Customer Analytics Dashboard](./screenshots/cleaned-Excel2.png)
+![Telecom Customer Analytics Dashboard](./screenshots/cleaned-Excel3.png)
+![Telecom Customer Analytics Dashboard](./screenshots/cleaned-Excel4.png)
 
 ## Business Questions Addressed
 - How large is the customer base, and what does it generate in total revenue and average monthly charge?
