@@ -118,7 +118,7 @@ Customers are counted with a distinct count of Customer ID, which is safe becaus
 Power BI Desktop (Power Query, DAX, visualisation, slicers, map visual)
 
 ## Notes on Data
-This is a portfolio project focused on customer profiling and revenue analysis in a telecom setting. Source: [add dataset link here]
+This is a portfolio project focused on customer profiling and revenue analysis in a telecom setting.
 
 ## Author
 **Sello Mpho** · Bloemfontein, South Africa
